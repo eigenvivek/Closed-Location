@@ -61,17 +61,15 @@ class Tracker:
 
     # Main function
     def main(self):
-
-        starttime = datetime.now()
-        update_time = starttime + self.delta
-
-        if datetime.now() < update_time:
-            for i in range(60):
-                time.sleep(1)
-        else
-
-
         self.update_sheet()
+        # starttime = datetime.now()
+        # update_time = starttime + self.delta
+        #
+        # if datetime.now() < update_time:
+        #     for i in range(60):
+        #         time.sleep(1)
+        # else:
+        #     self.update_sheet()
 
 
 if __name__ == "__main__":
