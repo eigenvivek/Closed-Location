@@ -10,7 +10,7 @@ If the user wishes to check their location history, they merely need to access t
 
 Motivated by my distaste for a laptop tracking system recommended by my university
 ([FrontDoorSoftware](https://frontdoorsoftware.com/) is a special kind of awful), I decided to write my own!
-This Closed-Location was born!
+Thus, Closed-Location was born!
 
 ## To-Do
 - Make script run on startup
