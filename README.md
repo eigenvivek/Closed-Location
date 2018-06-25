@@ -2,9 +2,9 @@
 Vivek Gopalakrishnan | June 15, 2018
 
 ## Overview
-This repository contains code for a tracking system that logs your location in a Google Spreadsheet. 
+This repository contains code for a tracking system that logs your location in a Google Spreadsheet.
 
-When run, the script fetches the user's information using the ipstack API. 
+When run, the script fetches the user's information using the ipstack API.
 Relevant information from this request is parsed and subsequently stored on a Google Spreadsheet.
 If the user wishes to check their location history, they merely need to access the spreadsheet to see where the device has been.
 
@@ -30,4 +30,4 @@ If you wish to run this software on your machine, you will need API keys for the
 
 3. Share your target spreadsheet with the client_email listed in the `client_secret.json`.
 
-4. Run `main.py`,
+4. Run `main.py`.
